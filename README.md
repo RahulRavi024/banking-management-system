@@ -3,6 +3,8 @@
 A simple Banking Management System(CLI) built using Python, Object-Oriented Programming (OOP) concepts, and SQLite.
 
 The application allows users to register customers, create bank accounts, perform banking transactions, manage account details, and store transaction history.
+<img width="596" height="211" alt="image" src="https://github.com/user-attachments/assets/6d9ba505-12de-4579-84b1-c241bd9af603" />
+<img width="1607" height="857" alt="image" src="https://github.com/user-attachments/assets/26dbfaf3-3dc0-4734-8a22-82473f5f9a18" />
 
 ## Features
 
