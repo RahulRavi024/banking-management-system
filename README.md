@@ -1,6 +1,6 @@
 # Banking Management System
 
-A simple Banking Management System built using Python, Object-Oriented Programming (OOP) concepts, and SQLite.
+A simple Banking Management System(CLI) built using Python, Object-Oriented Programming (OOP) concepts, and SQLite.
 
 The application allows users to register customers, create bank accounts, perform banking transactions, manage account details, and store transaction history.
 
